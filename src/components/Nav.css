@@ -1,0 +1,32 @@
+/* color pallet */
+/* 
+#00d9a6
+#00C1DC
+#FF7B1A
+*/
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #36404A;
+    height: 80px;
+    color: #DBDBDB;
+}
+
+h1 {}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    width: 500px;
+}
+
+li {
+    cursor: pointer;
+}
+
+li:hover {
+    color: #00C1DC;
+}
